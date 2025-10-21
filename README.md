@@ -6,7 +6,7 @@ Below you can find some of my favorite projects.
 
 ## Projects  
 
-### [Temperature-Controlled Fan](https://github.com/oli26567/rolling-average)
+### [Temperature-Controlled Fan](https://github.com/oli26567/fan_controll)
 Arduino project that automatically activates a fan based on temperature readings.  
 **Tech:** Arduino Uno, DHT11 Sensor, LCD Display, DC Fan  
 

@@ -1,16 +1,25 @@
-## Hi there 👋
+# My Portfolio  
+ 
+Below you can find some of my favorite projects.  
 
-<!--
-**oli26567/oli26567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Temperature-Controlled Fan](https://github.com/oli26567/rolling-average)
+Arduino project that automatically activates a fan based on temperature readings.  
+**Tech:** Arduino Uno, DHT11 Sensor, LCD Display, DC Fan  
+
+---
+
+### [Rolling Average FPGA System](https://github.com/oli26567/rolling-average)
+VHDL system that computes a real-time rolling average of 8-bit data on an FPGA.  
+**Tech:** VHDL, Xilinx Basys 3, LFSR, Seven-Segment Display  
+
+---
+
+### [Courier Company Desk Simulation](https://github.com/oli26567/courier_company)
+Java + PostgreSQL simulation of courier operations with role-based access and package tracking.  
+**Tech:** Java, JDBC, PostgreSQL, Console Interface  
+
+

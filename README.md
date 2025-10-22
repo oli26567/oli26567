@@ -24,6 +24,6 @@ Java + PostgreSQL simulation of courier operations with role-based access and pa
 
 ---
 ### [Order Management System](https://github.com/oli26567/orders_management)
-A Java Swing + PostgreSQL desktop app for managing clients, products, and orders through an interactive GUI.
-Implements layered architecture (DAO, BLL, Model, Presentation) and data validation for efficient CRUD operations.
-Tech: Java, Swing, PostgreSQL, JDBC
+A **Java Swing + PostgreSQL** desktop application for managing clients, products, and orders through an interactive GUI.  
+Implements a layered architecture (`DAO`, `BLL`, `Model`, `Presentation`) and data validation for efficient CRUD operations.  
+**Tech:** Java, Swing, PostgreSQL, JDBC  

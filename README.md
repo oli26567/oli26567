@@ -22,4 +22,8 @@ VHDL system that computes a real-time rolling average of 8-bit data on an FPGA.
 Java + PostgreSQL simulation of courier operations with role-based access and package tracking.  
 **Tech:** Java, JDBC, PostgreSQL, Console Interface  
 
-
+---
+### [Order Management System](https://github.com/oli26567/orders_management)
+A Java Swing + PostgreSQL desktop app for managing clients, products, and orders through an interactive GUI.
+Implements layered architecture (DAO, BLL, Model, Presentation) and data validation for efficient CRUD operations.
+Tech: Java, Swing, PostgreSQL, JDBC

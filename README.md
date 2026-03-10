@@ -6,10 +6,10 @@ Below you can find some of my favorite projects.
 
 ## Projects  
 
-### [Temperature-Controlled Fan](https://github.com/oli26567/fan_controll)
-Arduino project that automatically activates a fan based on temperature readings.  
+### [Remote Weather Station & Smart Environment Controller](https://github.com/oli26567/fan_controll)
+ESP32-based system designed to monitor environmental conditions and automate climate control. It combines real-time local sensor data with online weather forecasts for Cluj-Napoca.
 
-**Tech:** Arduino Uno, DHT11 Sensor, LCD Display, DC Fan  
+**Tech:** ESP32, Arduino Uno, DHT11 Sensor, OLED Display, IR Receiver Module + Remote Control, DC Fan / Motor
 
 ---
 
